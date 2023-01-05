@@ -1,0 +1,23 @@
+{
+    "id": "9232510684",
+    "customerId": "1366",
+    "requestId": null,
+    "paymentDate": "2022-04-07 17: 14: 08.0",
+    "amount": 113333.33,
+    "paymentStatus": "NEW",
+    "statusReason": null,
+    "statusCode": null,
+    "modulename": "PAYDAYLOAN",
+    "notificationSent": false,
+    "dateNotificationSent": "2022-04-07",
+    "firstNotificationSent": true,
+    "dateFirstNotificationSent": "2022-04-20",
+    "netSalary": 90066.67,
+    "totalCredit": 113333.33,
+    "customerPhoneNumber": "234937005461",
+    "mandateRef": "320010052235",
+    "merchantId": "27768931",
+    "balanceDue": 566666.67,
+    "paymentRef": "495515645",
+    "trycount": 0
+}
