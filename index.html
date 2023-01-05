@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title></title>
+  <title>collection-notification.php</title>
 </head>
 <body>
 
@@ -16,7 +16,7 @@ var requestOptions = {
   redirect: 'follow'
 };
 
-fetch("https://app.sodlapp.com/apinotify", requestOptions)
+fetch("https://app.sodlapp.com/collection-notification.php", requestOptions)
   .then(response => response.json())
   .then(result => console.log(result));
   .catch(error => console.log(error));
